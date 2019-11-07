@@ -9,7 +9,7 @@ MMD Dataset is a Retina1 fundus image dataset for detection of myopia macular de
 [EyePACS dataset](https://www.kaggle.com/c/diabetic-retinopathy-detection). 
 [messidor-1](http://www.adcis.net/en/third-party/messidor/)
 [messidor-2](http://www.adcis.net/en/third-party/messidor2/)
-[ALM-Training400](https://dataset-bj.cdn.bcebos.com/pm/PALM-Training400.zip)
+[PALM-Training400](https://dataset-bj.cdn.bcebos.com/pm/PALM-Training400.zip)
 [PALM-Validation400](https://dataset-bj.cdn.bcebos.com/pm/PALM-Validation400.zip)
 ## Reference:
 Various performance indexes are as follows:
